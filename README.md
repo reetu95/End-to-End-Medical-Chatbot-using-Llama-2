@@ -2,9 +2,6 @@
 
 A retrieval-augmented generation (RAG) chatbot that answers medical questions using information retrieved from a medical PDF knowledge base. The application combines a locally running Llama 2 model with LangChain, Hugging Face sentence embeddings, Pinecone, and a Flask web interface.
 
-> [!WARNING]
-> This project is an educational prototype. It is not a medical device and must not be used as a substitute for professional medical advice, diagnosis, or treatment. In an emergency, contact your local emergency service or a qualified healthcare professional.
-
 ## Features
 
 - Answers questions using context retrieved from medical reference material
